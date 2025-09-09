@@ -1,10 +1,5 @@
 {
-    "version": "1.11.0",
-    "release_date": "2024-01-15",
-    "changelog": [
-        "Initial release of Paradox Tool Launcher",
-        "Added system control functionality",
-        "Integrated object detection with YOLO",
-        "Added automatic update system"
-    ]
+  "version": "1.1.0",
+  "download_url": "https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/update.zip",
+  "release_notes": "Your release notes here"
 }
