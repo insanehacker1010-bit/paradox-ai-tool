@@ -1,5 +1,5 @@
 {
     "version": "1.11.0",
     "release_notes": "Paradox Tool v1.11.0\n\nRequired Files Download Links:\n- System Control: https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/system_control.exe\n- YOLO Weights (200MB+): https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov3.weights\n- YOLO Config: https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/yolov3.cfg\n- COCO Names: https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/coco.names\n\nNote:\nAll files will be automatically downloaded when needed.\nyolov3.weights (200MB+) will download when you select Object Detection option.",
-    "download_url": "https://github.com/insanehacker1010-bit/paradox-ai-tool/releases/download/v1.11.0/paradox-ai-tool-v1.11.0.zip"
+    "download_url": "https://github.com/insanehacker1010-bit/paradox-ai-tool/releases/download/v1.11.0/Source code.zip"
 }
