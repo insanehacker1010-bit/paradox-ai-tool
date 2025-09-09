@@ -3,4 +3,9 @@
     "release_notes": "Initial release of Paradox Tool Launcher"
 
 }
-
+{
+    "system_control.exe": "https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/system_control.exe",
+    "yolov3.weights": "https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov3.weights",
+    "yolov3.cfg": "https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/yolov3.cfg", 
+    "coco.names": "https://github.com/insanehacker1010-bit/paradox-ai-tool/raw/main/coco.names"
+}
